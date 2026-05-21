@@ -1,12 +1,5 @@
 {
   "version": "6.0.3",
   "url": "https://drive.google.com/file/d/1EaDQSXY_sfjVkkDHfICQXCNlx1XPXg11/view?usp=drive_link",
-  "notes": "✅ Correção visual na busca de reservas
-✅ Busca automática ao digitar números durante reprodução
-✅ Reserva de músicas sem necessidade da tecla TAB
-✅ ENTER adiciona músicas automaticamente na fila
-✅ Música pulada não gera mais pontuação
-✅ Correção da exibição da pontuação durante animação
-✅ Exibição automática da versão do programa na tela inicial
-✅ Melhorias gerais de estabilidade e desempenho"
+  "notes": "Correções visuais na busca de reservas, busca automática ao digitar números durante reprodução, reservas sem necessidade da tecla TAB, ENTER adiciona músicas automaticamente na fila, músicas puladas não geram pontuação, correção da exibição da pontuação durante animação, exibição automática da versão do programa na tela inicial, melhorias gerais de estabilidade e desempenho."
 }
