@@ -1,5 +1,5 @@
 {
-  "version": "6.0.5",
+  "version": "6.0.6",
   "url": "https://drive.google.com/file/d/1EaDQSXY_sfjVkkDHfICQXCNlx1XPXg11/view?usp=drive_link",
-  "notes": "Correções e melhorias no campo busca por nome do cantor e bugs de acentos e caracteres especiais, coreções e sincronismo favoritos do controle remoto com busca pelo cantor do programa"
+  "notes": "Implementação do MODO BAR com suporte a 2 telas"
 }
