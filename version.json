@@ -1,5 +1,5 @@
 {
-  "version": "6.0.6",
+  "version": "6.0.7",
   "url": "https://drive.google.com/file/d/1EaDQSXY_sfjVkkDHfICQXCNlx1XPXg11/view?usp=drive_link",
-  "notes": "Implementação do MODO BAR com suporte a 2 telas"
+  "notes": "Melhoria na ativação e desativação do modo bar"
 }
