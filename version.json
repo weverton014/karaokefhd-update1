@@ -1,5 +1,5 @@
 {
-  "version": "6.0.7",
-  "url": "https://drive.google.com/file/d/1EaDQSXY_sfjVkkDHfICQXCNlx1XPXg11/view?usp=drive_link",
-  "notes": "Melhoria na ativação e desativação do modo bar"
+  "version": "6.0.8",
+  "url": "https://drive.google.com/file/d/1EaDQSXY_sfjVkkDHfICQXCNIx1XPgx11/view?usp=drive_link",
+  "notes": "🎤 MODO BAR — GRANDES MELHORIAS\n\n• Novo sistema de fila e reservas de músicas.\n• Nome do cantor exibido junto à música.\n• Reservas pelo celular integradas ao Modo Bar.\n• Sincronização melhorada entre celular, operador e player.\n• Nova tela de chamada do próximo cantor.\n• Nova tela de espera quando não há músicas.\n• Controle de TOM + e TOM − diretamente pela tela do operador.\n• Controle de TOM pelas teclas ↑ e ↓.\n• Teclas Q, SPACE, TAB e DEL integradas ao Modo Bar.\n• Novo sistema de confirmação para sair do Modo Bar.\n• ESC agora permite sair com segurança sem fechar o programa.\n• Ao sair, player e telas do Modo Bar são encerrados corretamente.\n• Correção de áudio ao passar para a próxima música.\n• Correção de áudio que permanecia tocando após sair do Modo Bar.\n• Novo motor de vídeo com LibVLC.\n• Vídeos 4:3 e outras proporções agora preenchem corretamente a segunda tela.\n• Melhorias na reprodução em tela cheia.\n• Melhorias no sistema de pontuação e votação.\n• Diversas correções de estabilidade, sincronização e navegação."
 }
