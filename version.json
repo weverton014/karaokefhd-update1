@@ -1,5 +1,5 @@
 {
-  "version": "6.1.0",
+  "version": "6.1.1",
   "url": "https://drive.google.com/file/d/1RYJsgbPxVznHObvLSVd5RcUaJlRSmMWm/view?usp=sharing",
   "notes": "Grande atualização: download automático das músicas direto pelo programa, sem precisar configurar caminhos ou baixar pelo Google Drive. Nova reprodução online com cache automático, tom/pitch e suporte ao Modo Bar."
 }
