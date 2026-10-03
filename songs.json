@@ -1,6 +1,6 @@
 {
 "fileInfo":{
-  "version": "27-09-2026-NAC42A-INT15J-STUDIO 10A"
+  "version": "03-10-2026-NAC42A-INT15J-STUDIO 10A"
 },
 "musicas":[
 
@@ -215180,6 +215180,18 @@
     "artista": "Zezé di Camargo e Luciano",
     "codigo": 55634,
     "titulo": "PASSOU DA CONTA",
+    "inicioletra": "",
+    "pacote": "STUDIO 10A",
+    "favorito": "",
+    "idioma": "BRA",
+    "acervo": "STUDIO",
+    "lancamento": "",
+    "estilo": ""
+  },
+{
+    "artista": "Negritude Junior",
+    "codigo": 55635,
+    "titulo": "AMOR PELA METADE",
     "inicioletra": "",
     "pacote": "STUDIO 10A",
     "favorito": "",
