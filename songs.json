@@ -1,6 +1,6 @@
 {
 "fileInfo":{
-  "version": "03-10-2026-NAC42A-INT15J-STUDIO 10A"
+  "version": "27-09-2026-NAC42A-INT15J-STUDIO 10A"
 },
 "musicas":[
 
@@ -215192,6 +215192,42 @@
     "artista": "Negritude Junior",
     "codigo": 55635,
     "titulo": "AMOR PELA METADE",
+    "inicioletra": "",
+    "pacote": "STUDIO 10A",
+    "favorito": "",
+    "idioma": "BRA",
+    "acervo": "STUDIO",
+    "lancamento": "",
+    "estilo": ""
+  },
+{
+    "artista": "Grupo Redenção",
+    "codigo": 55636,
+    "titulo": "É NATURAL",
+    "inicioletra": "",
+    "pacote": "STUDIO 10A",
+    "favorito": "",
+    "idioma": "BRA",
+    "acervo": "STUDIO",
+    "lancamento": "",
+    "estilo": ""
+  },
+  {
+    "artista": "Grupo Redenção",
+    "codigo": 55637,
+    "titulo": "FRONTEIRAS",
+    "inicioletra": "",
+    "pacote": "STUDIO 10A",
+    "favorito": "",
+    "idioma": "BRA",
+    "acervo": "STUDIO",
+    "lancamento": "",
+    "estilo": ""
+  },
+  {
+    "artista": "Colocantô",
+    "codigo": 55638,
+    "titulo": "SEMPRE ACESA",
     "inicioletra": "",
     "pacote": "STUDIO 10A",
     "favorito": "",
