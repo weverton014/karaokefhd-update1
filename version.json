@@ -1,6 +1,6 @@
 {
-  "version": "6.1.5",
-  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.5-Setup.exe",
-  "sha256": "0D81A84879D0977A356A79F74746A99CADC989E27B08C240084277A61667853A",
-  "notes": "Correção no Modo Bar: chamada do próximo cantor por 7 segundos antes de iniciar a música. Melhorias de estabilidade."
+  "version": "6.1.6",
+  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.6-Setup.exe",
+  "sha256": "7998FAE41A4C4E6A0804E7DCDB0FCF4466896CE9BB75DE160CCE5D741C30EE7C",
+  "notes": "Adicionado modo de remapeamento de teclas e correções sobre o teclado"
 }
