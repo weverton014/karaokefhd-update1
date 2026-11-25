@@ -1,6 +1,6 @@
 {
-  "version": "6.1.7",
-  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.7-Setup.exe",
-  "sha256": "AF537FF2ED6B968C23293D359EEF59A558955771BCFAC5FA9670F27C4DA99FA1",
-  "notes": "Correções e melhorias."
+  "version": "6.1.8",
+  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.8-YouTube-Setup.exe",
+  "sha256": "E7C3A781AFAE00D671708ED308F98A54765F2FA16CBF296B04A2E1DE28B60318",
+  "notes": "Corrige a versão exibida na tela inicial. No YouTube, respeita a opção de desativar a pontuação e melhora a leitura da duração nas miniaturas."
 }
