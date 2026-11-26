@@ -1,6 +1,6 @@
 {
 "fileInfo":{
-  "version": "18-11-2026-NAC42J-INT16H-STUDIO 10B"
+  "version": "18-11-2026-NAC42J-INT16H-STUDIO 10C"
 },
 "musicas":[
 
@@ -218329,6 +218329,18 @@
     "favorito": "",
     "idioma": "",
     "acervo": "RAF",
+    "lancamento": "",
+    "estilo": ""
+  },
+{
+    "artista": "Roberto Ribeiro",
+    "codigo": 55667,
+    "titulo": "ESTRELA DE MADUREIRA",
+    "inicioletra": "",
+    "pacote": "STUDIO 10C",
+    "favorito": "",
+    "idioma": "",
+    "acervo": "STUDIO",
     "lancamento": "",
     "estilo": ""
   }
