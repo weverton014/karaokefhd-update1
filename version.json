@@ -1,6 +1,6 @@
 {
-  "version": "6.1.8",
-  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.8-YouTube-Setup.exe",
-  "sha256": "E7C3A781AFAE00D671708ED308F98A54765F2FA16CBF296B04A2E1DE28B60318",
-  "notes": "Corrige a versão exibida na tela inicial. No YouTube, respeita a opção de desativar a pontuação e melhora a leitura da duração nas miniaturas."
+  "version": "6.1.9",
+  "url": "https://pub-6fc69c9b00e34ac0a7b61a6f1f1c2a12.r2.dev/KaraokeFHD-6.1.9-YouTube-Setup.exe",
+  "sha256": "B19D25CCAE6398DD21B1C2E28C6CE0815F65686CDEA6B06EF61AFACC670B29B0",
+  "notes": "Atualiza os termos de aceite e deixa o YouTube oculto por padrão. Para exibir o módulo, ative-o em Configurações > Sistema."
 }
